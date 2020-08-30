@@ -1,7 +1,7 @@
 from .models import Posts
 from rest_framework import serializers
 from django.contrib.auth.models import User
-
+#vhvkjdvkdjvnbdkjbssvkbdkjb dbvkjdbvkd sdbvkjsdv sdkjbkjsdb sd jksdbkjsdbvkjsdbkjsdbvkvbsdkv
 
 
 class PostSerializer(serializers.ModelSerializer):
