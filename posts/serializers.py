@@ -10,8 +10,6 @@ class PostSerializer(serializers.ModelSerializer):
         fields = ('title', 'content', 'if_featured')
 
 
-
-
 class UserSerializer(serializers.ModelSerializer):
 
     class Meta:
